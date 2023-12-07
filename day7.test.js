@@ -18,12 +18,11 @@ describe('Day7', () => {
   });
   describe('Part 2', () => {
     it('returns correct value for sample input', () => {
-      expect(calculateDay7Part2(exampleInput)).toEqual(0);
+      expect(calculateDay7Part2(exampleInput)).toEqual(5905);
     });
 
-    // This takes a long time to run
     it('returns correct value for real input', () => {
-        expect(calculateDay7Part2(Day7Data)).toEqual(0);
+        expect(calculateDay7Part2(Day7Data)).toEqual(253253225);
       });
   });
 });
