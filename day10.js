@@ -1,6 +1,6 @@
-export const calculateDay6Part1 = (input) => {
+export const calculateDay10Part1 = (input) => {
 
 };
-export const calculateDay6Part2 = (input) => {
+export const calculateDay10Part2 = (input) => {
     
 };
